@@ -5,6 +5,7 @@
 import java.util.*;
 
 // Medication class to represent each medication
+
 class Medication {
     private String name;
     private String dosage;
